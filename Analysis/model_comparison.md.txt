@@ -1,0 +1,25 @@
+# Model Comparison
+
+## Model 1 - Marketing Spend
+- Dependent Variable: Monthly Sales
+- Independent Variable: Marketing Spend
+- R² = 0.1672
+- P-value = 2.48E-14
+- Marketing spend has a statistically significant positive relationship with monthly sales.
+
+## Model 2 - Footfall
+- Dependent Variable: Monthly Sales
+- Independent Variable: Footfall
+- R² = 0.7363
+- P-value = 4.75E-94
+- This model explains the largest proportion of variation in monthly sales and is the strongest simple regression model.
+
+## Multiple Regression
+- Dependent Variable: Monthly Sales
+- Multiple numerical predictors were included.
+- R² = 0.0381
+- Overall model is statistically significant (p = 0.00044).
+- The model indicates that multiple business factors jointly influence sales, although explanatory power is lower than the strongest simple model.
+
+## Final Model Selected
+The Footfall model provides the highest explanatory power and is the most useful for understanding monthly sales in this analysis.

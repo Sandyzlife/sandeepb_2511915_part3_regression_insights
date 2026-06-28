@@ -1,4 +1,3 @@
-Include this summary:
 
 Dependent Variable: Monthly Sales
 Independent Variables: Marketing Spend, Footfall, Average Discount %, Staff Count, Inventory Availability, Holiday Flag, Customer Rating
